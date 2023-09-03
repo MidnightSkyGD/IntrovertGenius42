@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IntrovertGenius42
+- 👋 Hi, I’m Midnight Sky.
 - 👀 I’m interested in programming and video games.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ...
